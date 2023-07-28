@@ -1,0 +1,29 @@
+* {
+    color: darkolivegreen;
+    background: white;
+    text-align: center;
+}
+div, p {
+    color: black;
+}
+
+.odd {
+    background-color:rgba(204, 17, 214, 0.867);
+    font-family: Verdana, "Dejavu Sans", sans-serif;
+}
+
+#third {
+    font-size: 24px;
+    /*background: rgba(53, 111, 47, 0.867)*/
+}
+
+.even#second {
+    color: rgba(0, 0, 255, 1);
+    font-size: 36px;
+}
+
+.even.noprime {
+    background: lightgreen;
+    font-size: 24px;
+    font-weight: 800;
+}
