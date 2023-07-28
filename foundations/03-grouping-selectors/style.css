@@ -1,0 +1,11 @@
+.button_item {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+.button_item.first_item {
+    background: black;
+    color: white;
+}
+.button_item.second_item{
+    background-color: rgb(225, 247, 81)
+}
